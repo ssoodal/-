@@ -1,0 +1,6 @@
+{
+  "name": "3개국어 번역 및 음성 가이드",
+  "description": "한국어를 입력하면 영어, 일본어, 중국어로 번역하고, 자연스러운 발음의 오디오 가이드를 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
